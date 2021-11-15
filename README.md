@@ -61,8 +61,10 @@ Username : test
 password : test123
 
 
-###ER Diagram
+
+### ER Diagram
 ![ErDiagram](https://user-images.githubusercontent.com/47777912/141786889-35be2f9b-eae8-458f-b284-d3891ee5213b.jpeg)
+
 
 
 ## License
