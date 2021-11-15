@@ -2,6 +2,13 @@
 
 ## TECH STACK : React , Django , RESTApi, SQLite3
 
+### Admin Demo Account Details:
+Username : test
+
+password : test123
+
+###
+
 ## Below are commands to run the project
 
 ```bash
@@ -45,6 +52,14 @@ Frontend :
 Base Api : [http://127.0.0.1:8000/api](http://127.0.0.1:8000/api)
 
 Bookings : [http://127.0.0.1:8000/api/bookings](http://127.0.0.1:8000/api/bookings)
+
+Admin Panel : [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin)
+
+## Admin Demo Account Details:
+Username : test
+
+password : test123
+
 
 
 
